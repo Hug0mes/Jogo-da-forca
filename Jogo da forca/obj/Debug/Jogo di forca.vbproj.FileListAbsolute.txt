@@ -1,0 +1,13 @@
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\bin\Debug\Jogo di forca.exe.config
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\bin\Debug\Jogo di forca.exe
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\bin\Debug\Jogo di forca.pdb
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\bin\Debug\Jogo di forca.xml
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.vbprojAssemblyReference.cache
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo_di_forca.Form1.resources
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo_di_forca.Resources.resources
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.vbproj.GenerateResource.cache
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.vbproj.CoreCompileInputs.cache
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.exe
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.xml
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo di forca.pdb
+C:\Users\35192\source\repos\Jogo di forca\Jogo di forca\obj\Debug\Jogo_di_forca.Resource1.resources
